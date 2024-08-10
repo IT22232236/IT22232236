@@ -40,12 +40,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandaminii&" alt="sandaminii" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT22232236&" alt="IT22232236" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandaminii&show_icons=true&locale=en" alt="sandaminii" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandaminii&hide=Hack&langs_count=8&show_icons=true&locale=en&layout=compact" alt="sandaminii" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IT22232236&show_icons=true&locale=en" alt="IT22232236" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IT22232236&hide=Hack&langs_count=8&show_icons=true&locale=en&layout=compact" alt="IT22232236" />
 </p>
 
 
